@@ -32,8 +32,8 @@ Schooling - Remove countries that don't have values -->
 
 
 ## Immunization Score - Ryan
-Measles score = 100 - (measles cases / 10)
-Score = avg(measles score, polio, diphtheria)
+Pulled in an extra dataset for measles cases\\
+Score = avg(measles, polio, diphtheria) - will be a percentage.
 
 ## Total Expenditure - Amanda
 Remove 2015 data
