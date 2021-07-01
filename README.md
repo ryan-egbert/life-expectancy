@@ -31,17 +31,17 @@ Population
 Schooling - Remove countries that don't have values -->
 
 
-## Immunization Score
+## Immunization Score - Ryan
 Measles score = 100 - (measles cases / 10)
 Score = avg(measles score, polio, diphtheria)
 
-## Total Expenditure
+## Total Expenditure - Amanda
 Remove 2015 data
 
-## GDP
+## GDP - Zainab
 Find another dataset
 
-## Schooling
+## Schooling - Jackson
 Remove countries that do not have values for any year
 
 ## Presentation
