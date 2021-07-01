@@ -32,7 +32,7 @@ Schooling - Remove countries that don't have values -->
 
 
 ## Immunization Score - Ryan
-Pulled in an extra dataset for measles cases \\
+Pulled in an extra dataset for measles cases \
 Score = avg(measles, polio, diphtheria) - will be a percentage.
 
 ## Total Expenditure - Amanda
@@ -45,7 +45,7 @@ Find another dataset
 Remove countries that do not have values for any year
 
 ## Presentation
-Show a map with the life expectancy of each country \\
+Show a map with the life expectancy of each country \
 Instead of showing *how* we created figures/charts, she wants to know
-*why* we created the figures/charts. \\
+*why* we created the figures/charts. \
 
