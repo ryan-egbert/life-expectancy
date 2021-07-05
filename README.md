@@ -78,17 +78,17 @@ Overall life expectancy level \
 
 ### Going through all the columns
 Find out which columns correlate directly with life expectancy \
-- Schooling
-- Income Composition
-- Population
-- Thinness (5-9)
+- Schooling 
+- Income Composition 
+- Population 
+- Thinness (5-9) 
 - Thinness (1-19)
 - Alcohol
 - Total Expenditure
-- Percentage Expenditure
+- Percentage Expenditure 
 - GDP (Expenditure)
 - BMI
-- Immunization (broken down and overall score)
+- Immunization (broken down and overall score) 
 
 ### Correlation Matrix
 Find which factors have a positive correlation with life expectancy - rank them\
