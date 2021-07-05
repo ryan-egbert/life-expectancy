@@ -26,14 +26,15 @@ Income Composition
 ## Social
 --Alcohol--
 BMI
-Population
+Population  
 --Thinness--
 Schooling - Remove countries that don't have values -->
 
 
 ## Immunization Score - Ryan
 Pulled in an extra dataset for measles cases \
-Score = avg(measles, polio, diphtheria) - will be a percentage.
+Score = avg(measles, polio, diphtheria) - will be a percentage.\
+Remove outliers?
 
 ## Total Expenditure - Amanda
 Remove 2015 data
@@ -48,4 +49,49 @@ Remove countries that do not have values for any year
 Show a map with the life expectancy of each country \
 Instead of showing *how* we created figures/charts, she wants to know
 *why* we created the figures/charts. \
+Get another dataset for map graph (for lat and long) \ 
+Use *geopandas* \ 
+Bubble Graph - Somehow animate the transition \
+Correlation Matrix \
+
+## Remaining Tasks
+### Map w/GeoPandas - Zainab
+### Use GDP (Animate transition between years) - 
+### Correlation Matrix - 
+### Start Slides (Google Slides) - 
+### Combine Code - Ryan
+
+### Slide content
+
+#### Questions
+Lots of questions that coincide with our major question
+
+#### Data Issues
+Import other datasets (BMI, GDP)\
+Remove Outliers/null values \ 
+Show examples of how that helped with the data\
+
+#### Life expectancy trends
+Bar chart (developed vs developing)\
+Map\
+Overall life expectancy level \
+
+#### Going through all the columns
+Find out which columns correlate directly with life expectancy \
+- Schooling
+- Income Composition
+- Population
+- Thinness (5-9)
+- Thinness (1-19)
+- Alcohol
+- Total Expenditure
+- Percentage Expenditure
+- GDP (Expenditure)
+- BMI
+- Immunization (broken down and overall score)
+
+#### Correlation Matrix
+Find which factors have a positive correlation with life expectancy - rank them\
+
+#### Answer our question
 
