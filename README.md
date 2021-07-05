@@ -61,22 +61,22 @@ Correlation Matrix \
 ### Start Slides (Google Slides) - 
 ### Combine Code - Ryan
 
-### Slide content
+## Slide content
 
-#### Questions
+### Questions
 Lots of questions that coincide with our major question
 
-#### Data Issues
+### Data Issues
 Import other datasets (BMI, GDP)\
 Remove Outliers/null values \ 
 Show examples of how that helped with the data\
 
-#### Life expectancy trends
+### Life expectancy trends
 Bar chart (developed vs developing)\
 Map\
 Overall life expectancy level \
 
-#### Going through all the columns
+### Going through all the columns
 Find out which columns correlate directly with life expectancy \
 - Schooling
 - Income Composition
@@ -90,8 +90,8 @@ Find out which columns correlate directly with life expectancy \
 - BMI
 - Immunization (broken down and overall score)
 
-#### Correlation Matrix
+### Correlation Matrix
 Find which factors have a positive correlation with life expectancy - rank them\
 
-#### Answer our question
+### Answer our question
 
